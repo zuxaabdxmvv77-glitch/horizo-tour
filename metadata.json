@@ -1,0 +1,6 @@
+{
+  "name": "Horizo Tour",
+  "description": "Horizo Tour — Dunyo bo'ylab sayohat agentligi. Tayyor tur paketlar, qulay parvozlar va 24/7 qo'llab-quvvatlash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
